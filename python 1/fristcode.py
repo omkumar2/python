@@ -17,3 +17,7 @@ x = 'Python String Methods'
 print(x.istitle()) #true
 x = 'Python string methods'
 print(x.istitle()) #false
+
+
+
+print('python'.isalpha()) #true
